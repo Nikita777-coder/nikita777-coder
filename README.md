@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg](https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=Nikita777-coder&theme=gruvbox&title=-Issues,-Reviews></a>
+  <a href="#"><img src=https://github-profile-trophy.vercel.app/?username=Nikita777-coder&theme=gruvbox&title=-Issues,-Reviews></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src=https://github-readme-streak-stats.herokuapp.com/?user=Nikita777-coder&theme=bear></a>
 </p>
 
 <p align="center">
