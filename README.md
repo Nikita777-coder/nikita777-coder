@@ -15,7 +15,7 @@
 <h1 align="center"> Working on: </h1>
 <p align="center">
   <a href="https://github.com/Nikita777-coder/BankBackend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=BankBackend&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=BankBackend&bg_color=1203CDCD&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
 </p>
 
