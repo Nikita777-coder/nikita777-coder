@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=039C37&width=435&lines=Hi+there!;I'm+Nikita;Computer+science+student;And;Java+Developer></a>
+</h1>
 
-<!--
-**Nikita777-coder/nikita777-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg](https://github.com/ryo-ma/github-profile-trophy"><img src=https://github-profile-trophy.vercel.app/?username=Nikita777-coder&theme=gruvbox&title=-Issues,-Reviews></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#">
+    <img width="800" src="./profile-3d-contrib/profile-night-view.svg">
+  </a>
+</p>
