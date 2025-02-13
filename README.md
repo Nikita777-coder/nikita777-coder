@@ -1,30 +1,35 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=1833ff&center=true&width=435&size=30&lines=Hi+there!;I'm+Nikita;Computer+science+student;And;Java+Developer></a>
-</h1>
+# Nikita Yaglo:
+🧑‍💻 HSE University Computer Student student, 4th course
+<br>
+🎯 Java Backend Developer
+<br>
+📝 Guitarist / Coffee enjoyer
 
-<p align="center">
+## 🏆 GitHub Trophies
+<p>
   <a href="#"><img src=https://github-profile-trophy.vercel.app/?username=Nikita777-coder&theme=gruvbox&title=-Issues,-Reviews></a>
 </p>
 
-<p align="center">
+## 📊 GitHub Stats:
+<p>
   <a href="#"><img src=https://github-readme-streak-stats.herokuapp.com/?user=Nikita777-coder&theme=bear></a>
 </p>
 
-<p align="center">
+<p>
   <a href="#">
     <img width="800" src="./profile-3d-contrib/profile-night-rainbow.svg">
   </a>
 </p>
 
-<h1 align="center"> Working on: </h1>
-<p align="center">
+## 👨‍💻 Working on:
+<p>
   <a href="https://github.com/Nikita777-coder/BankBackend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=BankBackend&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
   </a>
 </p>
 
-<h1 align="center"> Skills & Tools: </h1>
-<p align="center">
+## ⚒️ Skills & Tools:
+<p>
   <a href="https://java.com/">
     <img src="https://img.shields.io/badge/java-F80000.svg?style=for-the-badge&logo=coffeescript&logoColor=white">
   </a>
