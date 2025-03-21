@@ -22,11 +22,14 @@
 </p>
 
 ## 👨‍💻 Working on:
-<p>
+<div style="display: flex; gap: 10px;">
   <a href="https://github.com/Nikita777-coder/AuraFlowServer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=BankBackend&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=AuraFlowServer&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true" height="100">
   </a>
-</p>
+  <a href="https://github.com/Nikita777-coder/Wishlist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=Wishlist&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true" height="100">
+  </a>
+</div>
 
 ## ⚒️ Skills & Tools:
 <p>
