@@ -26,6 +26,12 @@
   <a href="https://github.com/Nikita777-coder/AuraFlowServer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=AuraFlowServer&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true" height="100">
   </a>
+  <a href="https://github.com/Nikita777-coder/AuraFlowServerIntegration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=AuraFlowServerIntegration&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true" height="100">
+  </a>
+  <a href="https://github.com/Nikita777-coder/AuraFlowMeditationGenerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita777-coder&repo=AuraFlowMeditationGenerator&bg_color=3B3B3BFF&text_color=EBEBEB&title_color=FFF&hide_border=true" height="100">
+  </a>
 </div>
 
 ## ⚒️ Skills & Tools:
