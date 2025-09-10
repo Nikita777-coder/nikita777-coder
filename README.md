@@ -1,7 +1,7 @@
 # Nikita Yaglo:
 🧑‍💻 HSE University Computer Student student, 4th course
 <br>
-🎯 Java Backend Developer
+🎯 Java-Kotlin Backend Developer
 <br>
 📝 Guitarist / Coffee enjoyer
 
