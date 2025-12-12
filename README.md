@@ -1,5 +1,5 @@
 # Nikita Yaglo:
-🧑‍💻 HSE University Computer Student student, 4th course
+🧑‍💻 HSE University Computer Student student
 <br>
 🎯 Java-Kotlin Developer
 <br>
